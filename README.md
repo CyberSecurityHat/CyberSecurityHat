@@ -1,6 +1,6 @@
 # Project
 
-- CUHA CTF 2022 Project : 2022-08-12 ~ Now
+- CUHA CTF 2022 Project : 2022-08-12 ~ 2022-11-19
 
 <br>
 
