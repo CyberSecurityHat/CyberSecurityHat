@@ -14,7 +14,7 @@
 
 # Educational Background
 
-- 청주대학교 : 2020-03-02 ~ Now
+- 청주대학교 : 2020-03-02 ~ 현재
   - 디지털보안학과
 
 # Education
