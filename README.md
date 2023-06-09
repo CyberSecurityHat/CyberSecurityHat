@@ -17,6 +17,16 @@
 - 청주대학교 : 2020-03-02 ~ 현재
   - 디지털보안학과
 
+<br>
+
+# Club
+
+- CUHA(Cheongju University Hackers Alliance)
+  - 2022년 : CUHA 회원(보안트랙)
+  - 2023년 : CUHA 회장
+
+<br>
+
 # Education
 
 - KISA
