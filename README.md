@@ -2,10 +2,18 @@
 
 - CUHA CTF 2022 Project : 2022-08-12 ~ 2022-11-23
 - DISS(Development Injection Scanning Site) : 2023-03-14 ~ 현재
+- 흉기난동 예고 알림 맵 프로젝트 : 2023-08-05 ~ 현재
 
 <br>
 
-# Contest
+# Holding a Competition
+
+- CUHA CTF 2022 개최 : 2022-11-19
+- CUHA Freshman CTF 2023 개최 : 2023-03-20
+
+<br>
+
+# Award History
 
 - KHIDI, 웹 취약점 발굴 경진대회 2022 우승 (2022-09-21)
 - 오송 보건의료기관 합동 해킹메일 대응 훈련 4위 (2022-09-21)
@@ -37,3 +45,22 @@
   - 웹/모바일 취약점 점검 및 발굴 교육 : 2023-02-27 ~ 2023-02-28
   - 윤리적 해커 양성과정 4기 모의해킹 과정 4조 : 2023-05-10 ~ 2023-05-12
   - 윤리적 해커 양성과정 4기 보안 관제 과정 : 2023-07-11 ~ 2023-07-14
+
+<br>
+
+# Research
+
+- CUHA
+  - Jeopardy-style CTF DevOps 연구 : 2022-08-12 ~ 현재
+
+<br>
+
+# Bug Bounty
+- PatchDay
+  - Verified Bughunter
+ 
+<br>
+
+# Other
+- Dreamhack
+  - Dreamhack Education Plan 체험단 2기 : 2023-06-16 ~ 현재
