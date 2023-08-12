@@ -64,3 +64,5 @@
 # Other
 - Dreamhack
   - Dreamhack Education Plan 체험단 2기 : 2023-06-16 ~ 현재
+- 청주대학교 디지털보안학과
+  - CTF Study : 2023-05-03 ~ 2023-06-08
