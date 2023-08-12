@@ -57,7 +57,7 @@
 
 # Bug Bounty
 - PatchDay
-  - Verified Bughunter
+  - Verified Bughunter : 2023-07-25 ~ 현재
  
 <br>
 
