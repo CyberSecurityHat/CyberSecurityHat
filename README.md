@@ -48,13 +48,6 @@
 
 <br>
 
-# Research
-
-- CUHA
-  - Jeopardy-style CTF DevOps 연구 : 2022-08-12 ~ 현재
-
-<br>
-
 # Bug Bounty
 - PatchDay
   - Verified Bughunter : 2023-07-25 ~ 현재
@@ -64,3 +57,4 @@
 # Other
 - 청주대학교 디지털보안학과 CTF Study : 2022-05-03 ~ 2022-06-08
 - Dreamhack Education Plan 체험단 2기 : 2023-06-16 ~ 현재
+- 2023년도 충북 정보보호 동아리 연합행사, 청주대학교 CUHA '안전한 Jeopardy-style CTF 구축 및 운영' 발표 : 2023-08-17
