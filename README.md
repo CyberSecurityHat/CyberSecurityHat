@@ -6,7 +6,7 @@
 
 <br>
 
-# Github Link
+# Github Repository Link
 - https://github.com/rhkddns3459/diss (졸업작품, 웹 취약점 스캐닝 사이트 개발)
 - https://github.com/cju-wooam/CUHA_Freshman_CTF_2023 (CUHA Freshman CTF 2023 개최)
 - https://github.com/rhkddns3459/cuha_ctf (CUHA CTF 2022 개최)
