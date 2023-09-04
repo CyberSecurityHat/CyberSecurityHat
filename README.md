@@ -62,6 +62,17 @@
 
 <br>
 
+# Wargame
+
+- Suninatas
+  - Rank : 113/15501
+  - Score : 7746 (All solved)
+- wechall
+  - Rank : 816/28651
+  - Score : 30717
+
+<br>
+
 # Bug Bounty
 - PatchDay
   - Verified Bughunter : 2023-07-25 ~ 현재 (비공개 버그바운티 참여 중)
