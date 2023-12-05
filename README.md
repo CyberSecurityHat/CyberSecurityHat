@@ -78,12 +78,6 @@
 # Bug Bounty
 - PatchDay
   - Verified Bughunter : 2023-07-25 ~ 현재 (비공개 버그바운티 참여 중)
- 
-<br>
-
-# Account Profile
-- https://dreamhack.io/users/24837/ (Dreamhack)
-- https://solved.ac/profile/cybersecurityhat (solve.ac)
 
 <br>
 
