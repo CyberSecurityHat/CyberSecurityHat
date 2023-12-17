@@ -1,7 +1,7 @@
 # Project
 
 - CUHA CTF 2022 Project : 2022-08-12 ~ 2022-11-23
-- DISS(Development Injection Scanning Site) : 2023-03-14 ~ 현재
+- DISS(Development Injection Scanning Site) : 2023-03-14 ~ 2023-12-02
 - 흉기난동 예고 알림 맵 프로젝트 : 2023-08-05 ~ 2023-08-12
 
 <br>
