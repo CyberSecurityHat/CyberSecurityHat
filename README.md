@@ -23,7 +23,7 @@
 
 - CUHA CTF 2022 개최 : 2022-11-19
 - CUHA Freshman CTF 2023 개최 : 2023-03-20
-- 제 2회 충북 고교생 해킹 캠프 미니 CTF 개최 : 2023-11-04~2023-11-05
+- 제 2회 충북 고교생 해킹 캠프 미니 CTF 개최 : 2023-11-04 ~ 2023-11-05
 - CUHA CTF 2023 개최 : 2023-11-27
 
 <br>
@@ -69,11 +69,9 @@
 # Wargame
 
 - Suninatas
-  - Rank : 113/15501
   - Score : 7746 (All solved)
 - wechall
-  - Rank : 816/28651
-  - Score : 30717
+  - Score : 31077
 
 <br>
 
