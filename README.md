@@ -1,7 +1,7 @@
 # Project
 
 - CUHA CTF 2022 Project: 2022-08-12 ~ 2022-11-23
-- DISS(Development Injection Scanning Site): 2023-03-14 ~ 2023-12-02
+- DISS (Development Injection Scanning Site): 2023-03-14 ~ 2023-12-02
 - 흉기난동 예고 알림 맵 프로젝트: 2023-08-05 ~ 2023-08-12
 
 <br>
@@ -30,9 +30,9 @@
 
 # Award History
 
-- KHIDI, 웹 취약점 발굴 경진대회 2022 우승 (2022-09-21)
-- 오송 보건의료기관 합동 해킹메일 대응 훈련 4위 (2022-09-21)
-- 한국시뮬레이션학회 춘계학술대회 학부생 논문 발표 경진대회 우수논문발표상 가작상 (2023-06-30)
+- KHIDI, 웹 취약점 발굴 경진대회 2022 우승(2022-09-21)
+- 오송 보건의료기관 합동 해킹메일 대응 훈련 4위(2022-09-21)
+- 한국시뮬레이션학회 춘계학술대회 학부생 논문 발표 경진대회 우수논문발표상 가작상(2023-06-30)
 
 <br>
 
@@ -45,9 +45,9 @@
 
 # Club
 
-- CUHA(Cheongju University Hackers Alliance)
-  - 2022년: CUHA 보안트랙 회원 (2022-03-22 ~ 2023-02-20)
-  - 2023년: CUHA 회장 (2023-02-21 ~ 현재)
+- CUHA (Cheongju University Hackers Alliance)
+  - 2022년: CUHA 보안트랙 회원(2022-03-22 ~ 2023-02-20)
+  - 2023년: CUHA 회장(2023-02-21 ~ 현재)
 - Client
   - 2022년 하반기: Client 동아리 회원(2그룹)
 
@@ -77,7 +77,7 @@
 
 # Bug Bounty
 - PatchDay
-  - Verified Bughunter: 2023-07-25 ~ 현재 (비공개 버그바운티 참여 중)
+  - Verified Bughunter: 2023-07-25 ~ 현재(비공개 버그바운티 참여 중)
 
 <br>
 
