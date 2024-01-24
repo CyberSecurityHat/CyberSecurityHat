@@ -48,7 +48,7 @@
 
 - CUHA (Cheongju University Hackers Alliance)
   - 2022년: CUHA 보안트랙 회원(2022-03-22 ~ 2023-02-20)
-  - 2023년: CUHA 회장(2023-02-21 ~ 현재)
+  - 2023년: CUHA 회장(2023-02-21 ~ 2024-01-20)
 - Client
   - 2022년 하반기: Client 동아리 회원(2그룹)
 
