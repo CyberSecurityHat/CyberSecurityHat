@@ -8,7 +8,6 @@
 <br>
 
 # Github Repository Link
-- https://github.com/CyberSecurityHat/portfolio_my_page (포트폴리오 페이지 개발)
 - https://github.com/CyberSecurityHat/PoC-and-Exploit (PoC/Exploit)
 - https://github.com/rhkddns3459/diss (졸업작품, 웹 취약점 스캐닝 사이트 개발)
 - https://github.com/CyberSecurityHat/knife_map (흉기난도 예고 알림 맵 사이트 개발)
