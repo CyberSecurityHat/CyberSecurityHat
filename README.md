@@ -97,7 +97,7 @@
 <br>
 
 # Vulnerability Report
-- OOOOO OOO 보안 취약점 신고: 2023.12.12
+- OOOOO OOO 보안 취약점 신고: 2023-12-12
 
 <br>
 
