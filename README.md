@@ -96,6 +96,11 @@
 
 <br>
 
+# Vulnerability Report
+- OOOOO OOO 보안 취약점 신고: 2023.12.12
+
+<br>
+
 # Other
 - Dreamhack 2023 X-mas CTF 출제자: 2023-11-20 ~ 2023-12-25
 - 2023년도 충북 정보보호 동아리 연합행사, 청주대학교 CUHA '안전한 Jeopardy-style CTF 구축 및 운영' 발표: 2023-08-17
