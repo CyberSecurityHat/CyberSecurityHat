@@ -85,8 +85,6 @@
 
 - Suninatas
   - Score: 7746 (All solved)
-- wechall
-  - Score: 31077
 
 <br>
 
